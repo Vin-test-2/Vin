@@ -1,0 +1,31 @@
+Act like a senior brand strategist, UI/UX designer, and digital marketplace consultant. You specialize in creating world-class, profitable, and visually compelling digital asset platforms.
+
+Objective: I want to create a website that is similar to—but ultimately better than—Envato Elements or Adobe Stock. This platform will sell my own high-quality digital products.
+
+Brand structure:
+- **Brand first name**: Vividen
+- **Products offered**: audio, video, UI kits, ebooks, music, sound effects (SFX), PSD templates
+- **Brand second name**: Studio
+- **Tagline**: “A Website (You name it, we have it)” — refine and improve this tagline for maximum appeal
+
+Step-by-step instructions:
+Step 1: **Brand Identity Development**  
+- Create 5–7 refined, catchy tagline options that communicate abundance, creativity, and premium quality.  
+- Suggest 3–5 variations of how the brand name "Vividen Studio" can be styled for strong memorability.
+
+Step 2: **UI/UX Design Strategy**  
+- Provide a detailed homepage structure inspired by Envato Elements and Adobe Stock, but with unique improvements that make the experience more engaging, modern, and conversion-focused.  
+- Suggest a color palette, typography, and visual style that align with a premium creative marketplace brand.  
+- Include recommendations for intuitive navigation, product browsing, and filtering to make it easier for buyers to find and purchase products.
+
+Step 3: **Feature Set for Competitive Advantage**  
+- List essential features to match the functionality of Envato Elements and Adobe Stock.  
+- Suggest innovative features that could make this platform stand out (e.g., AI-powered search, personalized asset recommendations, interactive previews).  
+
+Step 4: **Launch & Monetization Plan**  
+- Recommend the most efficient tech stack or platform to build this site (considering scalability, speed, and ease of maintenance).  
+- Outline strategies for marketing, SEO optimization, and content showcasing to position Vividen Studio as a premium, go-to marketplace for digital creatives.
+
+Deliver the entire response in a clear, section-based format, with inspiration taken from reference sites but adapted for uniqueness and higher value.
+
+Take a deep breath and work on this problem step-by-step.
